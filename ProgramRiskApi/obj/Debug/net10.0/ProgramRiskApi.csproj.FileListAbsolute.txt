@@ -31,3 +31,4 @@ C:\Users\Patrick\Documents\dev\ProgramRiskApi\ProgramRiskApi\obj\Debug\net10.0\r
 C:\Users\Patrick\Documents\dev\ProgramRiskApi\ProgramRiskApi\obj\Debug\net10.0\ProgramRiskApi.pdb
 C:\Users\Patrick\Documents\dev\ProgramRiskApi\ProgramRiskApi\obj\Debug\net10.0\ProgramRiskApi.genruntimeconfig.cache
 C:\Users\Patrick\Documents\dev\ProgramRiskApi\ProgramRiskApi\obj\Debug\net10.0\ref\ProgramRiskApi.dll
+C:\Users\Patrick\Documents\dev\ProgramRiskApi\ProgramRiskApi\obj\Debug\net10.0\ProgramRiskApi.sourcelink.json

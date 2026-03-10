@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgramRiskApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a0f53412adfe8cabf0928ff73c988a8402914b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db9c8db3faaa659fce30329e2b21b66804f5751d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgramRiskApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgramRiskApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
